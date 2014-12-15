@@ -5,4 +5,3 @@ Battery usage concerns while programming
 - Long poll: Keeping connections optn
 - Fetching location
 - Fetching accelerometer/sensor data
-- 
